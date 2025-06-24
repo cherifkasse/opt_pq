@@ -8,4 +8,4 @@ SRC = otp_demo.c \
 all: otp_demo
 
 otp_demo: $(SRC)
-	$(CC) $(CFLAGS) $(SRC) -o otp_demo
+	$(CC) $(CFLAGS) $(SRC) -o otp_demo.exe
